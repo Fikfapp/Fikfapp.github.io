@@ -7,7 +7,7 @@
         link.href = apkUrl;
         
         // Atribui o nome do arquivo para download
-        link.download = 'JadeApp.apk';
+        link.download = 'Fikfap.apk';
         
         // Adiciona o elemento de âncora ao corpo do documento
         document.body.appendChild(link);
